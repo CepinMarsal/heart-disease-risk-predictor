@@ -1,0 +1,50 @@
+[
+    {
+        "Model":"Random Forest",
+        "Accuracy":0.8852459016,
+        "Precision":0.8387096774,
+        "Recall":0.9285714286,
+        "F1-Score":0.8813559322,
+        "ROC-AUC":0.9518398268
+    },
+    {
+        "Model":"Logistic Regression",
+        "Accuracy":0.868852459,
+        "Precision":0.8125,
+        "Recall":0.9285714286,
+        "F1-Score":0.8666666667,
+        "ROC-AUC":0.9512987013
+    },
+    {
+        "Model":"Support Vector Machine",
+        "Accuracy":0.8524590164,
+        "Precision":0.8064516129,
+        "Recall":0.8928571429,
+        "F1-Score":0.8474576271,
+        "ROC-AUC":0.9437229437
+    },
+    {
+        "Model":"K-Nearest Neighbors",
+        "Accuracy":0.8852459016,
+        "Precision":0.8,
+        "Recall":1.0,
+        "F1-Score":0.8888888889,
+        "ROC-AUC":0.9231601732
+    },
+    {
+        "Model":"XGBoost",
+        "Accuracy":0.8524590164,
+        "Precision":0.7878787879,
+        "Recall":0.9285714286,
+        "F1-Score":0.8524590164,
+        "ROC-AUC":0.9188311688
+    },
+    {
+        "Model":"Decision Tree",
+        "Accuracy":0.737704918,
+        "Precision":0.6764705882,
+        "Recall":0.8214285714,
+        "F1-Score":0.7419354839,
+        "ROC-AUC":0.744047619
+    }
+]

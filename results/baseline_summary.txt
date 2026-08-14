@@ -1,0 +1,20 @@
+
+Heart Disease Risk Predictor
+Baseline Modeling Summary
+
+Total Models Evaluated: 6
+
+Models:
+- Random Forest
+- Logistic Regression
+- Support Vector Machine
+- K-Nearest Neighbors
+- XGBoost
+- Decision Tree
+
+Best Baseline Model: Random Forest
+Accuracy  : 0.8852
+Precision : 0.8387
+Recall    : 0.9286
+F1 Score  : 0.8814
+ROC-AUC   : 0.9518
