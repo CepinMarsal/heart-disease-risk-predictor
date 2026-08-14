@@ -1,0 +1,18 @@
+
+Heart Disease Risk Predictor
+Final Model Summary
+
+Final Model
+Random Forest
+
+Selection Metric
+ROC-AUC
+
+Test Performance
+
+Accuracy  : 0.8852
+Precision : 0.8387
+Recall    : 0.9286
+F1-Score  : 0.8814
+ROC-AUC   : 0.9610
+

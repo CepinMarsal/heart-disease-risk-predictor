@@ -1,0 +1,16 @@
+{
+    "Random Forest": {
+        "n_estimators": 200,
+        "min_samples_split": 5,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "class_weight": "balanced"
+    },
+    "Logistic Regression": {
+        "C": 0.028888383623653185,
+        "class_weight": "balanced",
+        "max_iter": 1000,
+        "solver": "liblinear"
+    }
+}

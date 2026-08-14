@@ -1,0 +1,5 @@
+{
+    "model_name": "Random Forest",
+    "uses_scaled_features": false,
+    "selection_metric": "ROC-AUC"
+}
